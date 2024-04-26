@@ -1,7 +1,7 @@
 # Bi-Lingual Named Entity Recognition Using XLM-R and Language Features
 This repository contains the official implementation code of the paper [Bi-Lingual Named Entity Recognition Using XLM-R and Language Features](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11113333), accepted at KCC 2022.
 
-## Data
+## Data  
 Check the datasets. Training sets of English and Korean can be found in [this link](https://aclanthology.org/2022.semeval-1.196.pdf).
 
 ## Setting up the code environment
